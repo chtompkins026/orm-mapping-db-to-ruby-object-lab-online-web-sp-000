@@ -74,4 +74,7 @@ class Student
     end.first
   end
   
+  def 
+  
+  
 end #end of the Student class 
