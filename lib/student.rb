@@ -40,4 +40,10 @@ class Student
     sql = "DROP TABLE IF EXISTS students"
     DB[:conn].execute(sql)
   end
-end
+  
+  
+  def self.new_from_db 
+      
+  end 
+  
+end #end of the Student class 
